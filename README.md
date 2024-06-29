@@ -2,7 +2,6 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 
 About Me: A brief introduction and background information.
 Skills: A list of technical and soft skills.
-Projects: Detailed descriptions of my key projects with links to their repositories.
 Experience: A summary of my professional experience.
 Education: Information about my academic background.
 Contact: A form to get in touch with me.
